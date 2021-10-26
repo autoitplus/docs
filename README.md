@@ -1,0 +1,2 @@
+# docs
+AutoIt+ official documentation
